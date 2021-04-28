@@ -5,7 +5,7 @@ import  { Cards, Chart, CountryPicker } from './components';
 import styles from './App.module.css';
 import { fecthData } from './api';
 
-import covidImage from './Images/COVIDimage.webp';
+import covidImage from './Images/COVIDimage.jpeg';
 
 class App extends React.Component {
     state = {
